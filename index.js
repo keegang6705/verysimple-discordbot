@@ -1,5 +1,4 @@
 /////////////import////////////
-const keep_alive = require('./keep_alive.js')
 const { Client, Intents, Collection, MessageEmbed } = require('discord.js');
 const print = console.log;
 const Discord = require('discord.js');
